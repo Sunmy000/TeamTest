@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#sun {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  margin: 50px auto;
+  background-color: skyblue;
+  color: white;
+  border-radius: 10px;
+}
